@@ -1,0 +1,31 @@
+<resources>
+
+    <string name="app_name">PictureOfTheday</string>
+    <string name="refresh">Refresh</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_pic_of_day">Picture Of Day</string>
+    <string name="setWallPaper">Set Wallpaper</string>
+	<!-- Image of the day strings -->
+	<string name="image_title">Penguin Beach</string>
+	<string name="image_date">Mon, 05 Nov 2012 00:00:00 EST</string>
+	<string name="image_descr">Members of the IceBridge team visited a colony of
+				Magellanic penguins near Punta Arenas on a no-flight day. NASA\'s
+				Operation IceBridge is an airborne science mission to study Earth\'s
+				polar ice.Members of the IceBridge team visited a colony of
+				Magellanic penguins near Punta Arenas on a no-flight day. NASA\'s
+				Operation IceBridge is an airborne science mission to study Earth\'s
+				polar ice.Members of the IceBridge team visited a colony of
+				Magellanic penguins near Punta Arenas on a no-flight day. NASA\'s
+				Operation IceBridge is an airborne science mission to study Earth\'s
+				polar ice.Members of the IceBridge team visited a colony of
+				Magellanic penguins near Punta Arenas on a no-flight day. NASA\'s
+				Operation IceBridge is an airborne science mission to study Earth\'s
+				polar ice.Members of the IceBridge team visited a colony of
+				Magellanic penguins near Punta Arenas on a no-flight day. NASA\'s
+				Operation IceBridge is an airborne science mission to study Earth\'s
+				polar ice.Members of the IceBridge team visited a colony of
+				Magellanic penguins near Punta Arenas on a no-flight day. NASA\'s
+				Operation IceBridge is an airborne science mission to study Earth\'s
+				polar ice.</string>
+	<!--  -->
+</resources>
